@@ -1,0 +1,70 @@
+*
+{
+    background-color: #EEEEEE;
+    font-family: helvetica;
+}
+
+header
+{
+    display: flex;
+}
+
+body
+{
+    width: 90%;
+    margin: auto;
+}
+
+#logo, nav
+{
+    height: 100px;
+    width: 50%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+baner
+{
+    background-color: #DDDDDD;
+    height: 200px;
+}
+
+main
+{
+    color: navy;
+    margin: 50px;
+    height: 400px;
+}
+
+footer
+{
+    text-align: right;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+#stopka, strong
+{
+    background-color: lightblue;
+}
+
+.przyciski
+{
+    background-color: lightblue;
+    color: navy;
+}
+
+a
+{
+    color: navy;
+    font-size: 150%;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 10px;
+    padding: 5px;
+}
+
+a:hover
+{
+    border: 1px solid navy;
+}
